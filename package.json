@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "gulp",
-    "production": "NODE_ENV=production gulp"
+    "production": "set NODE_ENV=production&& gulp"
   },
   "author": "Daniel Belohlavek",
   "license": "MIT",
